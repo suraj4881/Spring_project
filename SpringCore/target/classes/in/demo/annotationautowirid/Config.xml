@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+	<!-- bean definitions here -->
+
+    <context:annotation-config/>
+    
+	<bean name="ad" class="in.demo.annotationautowirid.Address">
+		<property name="city" value="begusarai" />
+		<property name="state" value="bihar" />
+	</bean>
+	
+	
+	<bean name="ad2" class="in.demo.annotationautowirid.Address">
+		<property name="city" value="patna" />
+		<property name="state" value="india" />
+	</bean>
+	
+	
+	<bean name="st2" class="in.demo.annotationautowirid.Student">
+
+<!-- 		<property name="id" value="1" /> -->
+<!-- 		<property name="name" value="suraj" /> -->
+		
+<!-- 		<property name="address" ref="ad" /> -->
+      
+<!--       <constructor-arg name="id" value="1" index="0"/> -->
+<!--       <constructor-arg name="name" value="suraj" index="1"/> -->
+      
+
+	</bean>
+
+
+</beans>
