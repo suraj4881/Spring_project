@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "org.info.companyName",
+    "type": "java.lang.String",
+    "description": "A description for 'org.info.companyName'"
+  },
+  {
+    "name": "org.info.companyLocation",
+    "type": "java.lang.String",
+    "description": "A description for 'org.info.companyLocation'"
+  },
+  {
+    "name": "org.info.copmanySize",
+    "type": "java.lang.String",
+    "description": "A description for 'org.info.copmanySize'"
+  },
+  {
+    "name": "my.info.name",
+    "type": "java.lang.String",
+    "description": "A description for 'my.info.name'"
+  },
+  {
+    "name": "my.info.size",
+    "type": "java.lang.String",
+    "description": "A description for 'my.info.size'"
+  },
+{
+    "name": "my.info.Location",
+    "type": "java.lang.String",
+    "description": "A description for 'my.info.Location'"
+  }
+]}
