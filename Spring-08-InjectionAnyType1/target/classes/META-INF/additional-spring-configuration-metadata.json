@@ -1,0 +1,92 @@
+{"properties": [
+  {
+    "name": "emp.info.name",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.name'"
+  },
+  {
+    "name": "emp.info.skills[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.skills[1]'"
+  },
+  {
+    "name": "emp.info.skills[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.skills[0]'"
+  },
+  {
+    "name": "emp.info.id",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.id'"
+  },
+  {
+    "name": "emp.info.skills[3]",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.skills[3]'"
+  },
+  {
+    "name": "emp.info.skills[2]",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.skills[2]'"
+  },
+  {
+    "name": "emp.info.team-members[2]",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.team-members[2]'"
+  },
+  {
+    "name": "emp.info.team-members[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.team-members[1]'"
+  },
+  {
+    "name": "emp.info.team-members[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.team-members[0]'"
+  },
+  {
+    "name": "emp.info.id-details.voterid",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.id-details.voterid'"
+  },
+  {
+    "name": "emp.info.id-details.panNo",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.id-details.panNo'"
+  },
+  {
+    "name": "emp.info.id-details.adharNo",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.id-details.adharNo'"
+  },
+  {
+    "name": "emp.info.phone-numbers[2]",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.phone-numbers[2]'"
+  },
+  {
+    "name": "emp.info.phone-numbers[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.phone-numbers[1]'"
+  },
+  {
+    "name": "emp.info.phone-numbers[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.phone-numbers[0]'"
+  },
+  {
+    "name": "emp.info.company.size",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.company.size'"
+  }
+,{
+    "name": "emp.info.company.location",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.company.location'"
+  }
+,{
+    "name": "emp.info.company.title",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.company.title'"
+  }
+]}
